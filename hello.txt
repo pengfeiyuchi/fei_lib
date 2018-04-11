@@ -3,4 +3,7 @@ wwwwwwwwwwwwwwwwwwwwwxxxxxxxxxxxxxxxxxxxxxx
 qqqwwweeqweqwe
 sfaf:wq
 bbbbbbbbbbbbbbb
-hello  feifie
+<<<<<<< HEAD
+=======
+create a branch feature
+>>>>>>> feature
